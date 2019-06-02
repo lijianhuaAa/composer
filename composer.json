@@ -1,6 +1,6 @@
 {
-    "name": "guanguans/uploadfile",
-    "description": "这是一个测试",
+    "name": "lijianhuatest/composertest",
+    "description": "测试",
     "type": "library",
     "require": {
         "php": ">=5.4.0"
@@ -13,8 +13,8 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-    "psr-4": {
-        "Guanguans\\": "src/"
-      }
+        "psr-4": {
+            "XdpFrameWork\\": "src/"
+        }
     }
 }
